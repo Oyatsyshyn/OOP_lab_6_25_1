@@ -2,7 +2,7 @@
 using System;
 using System.IO;
 
-namespace OOP_lab_4_25_2
+namespace OOP_lab_6_25_1
 {
     class Program : IWork
     {
